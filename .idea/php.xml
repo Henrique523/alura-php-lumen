@@ -100,6 +100,7 @@
       <path value="$PROJECT_DIR$/api-series/vendor/psr/simple-cache" />
       <path value="$PROJECT_DIR$/api-series/vendor/psr/container" />
       <path value="$PROJECT_DIR$/api-series/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/api-series/vendor/firebase/php-jwt" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />

@@ -12,6 +12,7 @@
       <excludeFolder url="file://$MODULE_DIR$/api-series/vendor/doctrine/lexer" />
       <excludeFolder url="file://$MODULE_DIR$/api-series/vendor/dragonmantank/cron-expression" />
       <excludeFolder url="file://$MODULE_DIR$/api-series/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/api-series/vendor/firebase/php-jwt" />
       <excludeFolder url="file://$MODULE_DIR$/api-series/vendor/fzaninotto/faker" />
       <excludeFolder url="file://$MODULE_DIR$/api-series/vendor/hamcrest/hamcrest-php" />
       <excludeFolder url="file://$MODULE_DIR$/api-series/vendor/illuminate/auth" />
